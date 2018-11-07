@@ -1,5 +1,4 @@
-# assignment01
-#  Movie Ticketing Dataset in Hong Kong
+# Assignment01 - Movie Ticketing Dataset in Hong Kong
 
 ## Data Source
 
@@ -16,8 +15,13 @@ Starting page:https://www.cinema.com.hk/tc
 * `Sold Seats` - Int. e.g. `5`
 * `Total Seats` - Int. e.g. `129`
 
-## Data VAvailableolume
+## Data Volume
 100 rows 6 columns
 
 ## License
 CC 4.0
+
+## Obstacles and Solutions 
+
+
+## Future Work
